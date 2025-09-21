@@ -1,0 +1,61 @@
+# KiCad backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+
+# KiCad cache and temporary files
+*-cache.lib
+# KiCad backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+
+# KiCad automatic backup archives
+*-backups/
+*.zip
+
+# KiCad cache and temporary files
+*-cache.lib
+*-cache.dcm
+*.tmp
+*.bak
+*.swp
+*~
+
+# Auto-generated files
+fp-info-cache
+*.net
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# KiCad lock files
+*.lck
+
+# DRC and ERC reports (optional - you might want to keep these)
+*.rpt
+
+# 3D cache
+*.wrl.cache*-cache.dcm
+*.tmp
+*.bak
+*.swp
+*~
+
+# Auto-generated files
+fp-info-cache
+*.net
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# KiCad lock files
+*.lck
+
+# DRC and ERC reports
+*.rpt
+
+# 3D cache
+*.wrl.cache
